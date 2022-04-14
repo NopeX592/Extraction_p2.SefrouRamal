@@ -19,10 +19,7 @@ while {_run_1} do {
 		
 		_run_1 = false;
 		//Execute Missions
-		[] execVM "main\gather_intel_1_1.sqf";
-		[] execVM "main\kill_arib_1_1_1.sqf";
-		[] execVM "optional\destroy_aa.sqf";
-		[] execVM "optional\kill_tura.sqf";
+		[] execVM "main\find_member_1_2.sqf";
 	};
 };
 while {_run_2} do { 

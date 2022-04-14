@@ -19,10 +19,13 @@ Find UNA members 🡺 Extract UNA members 🡺 RTB
             • SFIA forces stole a helicopter it was last seen circling Bir-Dakhla
             • Known checkpoints are marked on the map
             • Check your fire civilians are still in the area
+            • Enemy forces have redeployed into cities you've attack before
         • Civilians are still in cities check your fire
 
     Extract UNA members:
-        • 
+        • Intel Indicates that UNA is in Bir-Dakhla
+        • Considerable defences
+        • Analysts marked the estimated position on the map
 
     Support:
         • In very dire situations a Forward Arming Refueling Truck (FART) can be provided
@@ -30,6 +33,7 @@ Find UNA members 🡺 Extract UNA members 🡺 RTB
 Intermissions:
     After UNA member saved:
         • Bring UNA member to Airport
+        • Contact will be waiting at marked position
         • RTB
     When Additional Missions:
         • Convoy is on the move so destroy it first

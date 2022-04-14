@@ -13,9 +13,6 @@ format [" Authors: %1<br/><br/>",getText (missionconfigfile >> "author")]+
 "<br/>"+
 "FEATURES:<br/>"+
 "• Virtual Arsenal<br/>"+
-"• Supply Drops<br/>"+
-"• Toxic Gas<br/>"+
-"• Artillery Support<br/>"+
 "<br/>"+
 "THANKS:<br/>"+
 "• Alex for helping me with programming<br/>"+
@@ -34,17 +31,17 @@ _roles = "<br/>"+
             • Infantry<br/>
             • Technicals<br/>
             • Few APCs<br/>
+            • Prior use of IEDs<br/>
+            • SFIA forces stole a helicopter it was last seen circling Bir-Dakhla<br/>
+            • Known checkpoints are marked on the map<br/>
+            • Check your fire civilians are still in the area<br/>
+            • Enemy forces have redeployed into cities you've attack before<br/>
+        • Civilians are still in cities check your fire<br/>
 <br/>
     Extract UNA members:<br/>
-        • Gather Intel on location<br/>
-            • In Mhamid<br/>
-<br/>
-    Kill/Destroy:<br/>
-        • Designate AA<br/>
-            • Ensures survival of UNA member after extraction<br/>
-        • Kill high ranking member of Tura/SFIA<br/>
-            • Disrupts structure of Tura/SFIA<br/>
-            • Civilians in stronghold artillery strike is not possible<br/>
+        • Intel Indicates that UNA is in Bir-Dakhla<br/>
+        • Considerable defences<br/>
+        • Analysts marked the estimated position on the map<br/>
 <br/>
     Support:<br/>
         • Supply drop<br/>
