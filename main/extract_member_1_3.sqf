@@ -10,8 +10,9 @@ task_1_3 = player createSimpleTask ["Extract the UNA member"];
 	task_1_3 setSimpleTaskType "run";
 	task_1_3 setTaskState "Created";
 
+["TaskCreated",["","Extract the UNA member"]] call BIS_fnc_showNotification;
+
 while {_run} do {
-	
 	if (((triggerActivated UNA_delivered) || (task_1_3_skip)) && !(task_1_3_fail)) then {
 		task_1_3 setTaskState "Succeeded";
 		["TaskSucceeded",["","Extract the UNA member"]] call BIS_fnc_showNotification;

@@ -16,6 +16,8 @@ _marker_UNA_member = createMarker ["Rescue the UNA member", getMarkerPos "UNA_me
 	_marker_UNA_member setMarkerShape "ELLIPSE";
 	_marker_UNA_member setMarkerSize [100, 100];
 
+["TaskCreated",["","Rescue the UNA member"]] call BIS_fnc_showNotification;
+
 while {_run} do {
 	if ((task_1_2_success || task_1_2_skip) && !(task_1_2_fail)) then {
 		task_1_2 setTaskState "Succeeded";

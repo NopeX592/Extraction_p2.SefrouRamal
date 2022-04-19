@@ -14,6 +14,8 @@ _UNA_delivery = createMarker ["Return to Base", getMarkerPos "rtb_marker"];
 	_UNA_delivery setMarkerShape "ELLIPSE";
 	_UNA_delivery setMarkerSize [100, 100];
 
+["TaskCreated",["","Return to Base"]] call BIS_fnc_showNotification;
+
 while {_run} do {
 	if (triggerActivated rtb_trigger || (task_1_4_skip)) then {
 		task_1_4 setTaskState "Succeeded";
