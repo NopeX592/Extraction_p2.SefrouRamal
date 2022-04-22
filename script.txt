@@ -36,6 +36,7 @@ Intermissions:
         • Contact will be waiting at marked position
         • RTB
     When Additional Missions:
+        • IMPORTANT:::: DELETE WAYPOINT
         • Convoy is on the move so destroy it first
             • Destroy Convoy transport truck
             • Main Road going from North to South
